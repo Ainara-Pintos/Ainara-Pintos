@@ -2,7 +2,11 @@
 <h3 align="center">Programadora Web Junior</h3>
 
 # 💫 Sobre Mi:
-Bienvenido a mi perfil de GitHub. Apasionado por la tecnología y siempre dispuesta a aprender nuevas cosas y emprender proyectos propios🗡️. <br>💻 Desarrollador apasionado<br>🌱 Siempre aprendiendo y mejorando mis habilidades<br>🚀 Amante de los proyectos creativos y desafiantes<br>Aquí encontrarás un un poquito de mi.<br><br>
+Apasionado por la tecnología y siempre dispuesta a aprender nuevas cosas y emprender proyectos propios. <br>
+  💻 Desarrollador apasionado<br>
+  🌱 Siempre aprendiendo y mejorando mis habilidades<br>
+  🚀 Amante de los proyectos creativos y desafiantes<br>
+Aquí encontrarás un un poquito de mi.<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ainara-pintos-5447202b0/) 
 
 # 💻 Lenguajes y Framework
